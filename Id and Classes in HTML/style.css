@@ -1,0 +1,22 @@
+.Red{
+
+color: rgba(238, 16, 16, 0.671);
+}
+.bg-yellow{
+    background-color: rgb(236, 233, 27);
+}
+#firstdiv{
+   /* background-color: rgb(236, 227, 100) */
+}
+.newclass{
+    color: brown;
+}
+#p1{
+    background-color: rgb(202, 241, 241);
+}
+#p2{
+    background-color: rgb(228, 219, 208);
+}
+#p3{
+    background-color: rgb(151, 151, 214);
+}
